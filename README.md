@@ -27,3 +27,5 @@ La fecha límite para enviar tu pull request es el 4 de Agosto, 11:59pm
 
 **Mi página no se ve en GitHub Pages**
 Asegúrate de haber habilitado GitHub Actions y GitHub Pages, y que la rama de GitHub Pages sea gh-pages
+
+Realizar el proyecto en nestjs
